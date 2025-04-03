@@ -21,8 +21,7 @@ var4 = True         #This variable holds a boolean
 var5 = False        #This variable also holds a boolean
 var6 = ["one","two","three"]     #This variable holds a list
 var7 = {
-  key:value         #This va
-#Note that while performing Mathematical Operations you should not use single orriable holds a dictionary
+  key:value         #This variable holds a dictionary
 }
 var8 = (10,20)      #This variable holds a tuple
 
