@@ -14,16 +14,16 @@ print(500/500) #Output 1.0
 
 #Variables and types of datatypes in python
 
-var1 = "Variable 1" #This variable holds a string 
-var2 = 100          #This variable holds an integer
-var3 = 105.5        #This variable holds a float value
-var4 = True         #This variable holds a boolean
-var5 = False        #This variable also holds a boolean
-var6 = ["one","two","three"]     #This variable holds a list
+var1 = "Variable 1" #var1 variable holds a string 
+var2 = 100          #var2 variable holds an integer
+var3 = 105.5        #var3 variable holds a float value
+var4 = True         #var4 variable holds a boolean
+var5 = False        #var5 variable also holds a boolean
+var6 = ["one","two","three"]     #var6 variable holds a list
 var7 = {
-  key:value         #This variable holds a dictionary
+  key:value         #var7 variable holds a dictionary
 }
-var8 = (10,20)      #This variable holds a tuple
+var8 = (10,20)      #var8 variable holds a tuple
 
 #Printing multiple variables using print()
 
